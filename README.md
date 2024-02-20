@@ -1,6 +1,6 @@
 # Applications of Deep Learning on Graphs (ADLG) Assignments
 
-This repository showcases our implementations for the coding assignments of the Applications of Deep Learning on Graphs course, Autumn Semester 2023. 
+This repository showcases our implementations for the coding assignments of the Applications of Deep Learning on Graphs course, Autumn Semester 2023 at ETH Zürich. 
 
 ## Assignments Overview
 
